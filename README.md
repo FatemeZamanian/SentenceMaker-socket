@@ -1,6 +1,6 @@
 ## SentenceMaker-socket
---This is a two-player game between you (client) and the server...
-First run This command :
+#This is a two-player game between you (client) and the server...
+ --First run This command :
 ```
 python server.py
 ```
